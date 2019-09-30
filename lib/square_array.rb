@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
+  while numbers = [1,2,3]
 end
